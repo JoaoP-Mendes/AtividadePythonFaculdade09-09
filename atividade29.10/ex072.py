@@ -1,0 +1,2 @@
+atleta = {}
+nome
