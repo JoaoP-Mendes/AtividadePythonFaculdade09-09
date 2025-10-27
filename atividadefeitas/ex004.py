@@ -1,0 +1,5 @@
+nome = str(input('Qual o seu nome? ')).strip()
+Pcarro = str(input('Coloque a placa do carro: ')).strip()
+Mcarro = str(input('Qual modelo do carro: ')).strip()
+Ccarro = str(input('Qual a cor do carro: ')).strip()
+print('{}, carro {}, {} da placa {}'.format(nome, Mcarro, Ccarro, Pcarro))
